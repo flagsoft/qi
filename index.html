@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+</head>
+<body>
+
+<script>
+
+var myUrl = "https://raw.githubusercontent.com/flagsoft/qi/master/c/commandline-args.c";
+
+$.get( myUrl, function( data ) {
+	alert( "Data Loaded: " + data );
+});
+
+/*
+$.ajax({
+	url: myUrl,
+	data: {
+		zipcode: 97201
+	},
+	success: function( data ) {
+		$( "#content" ).html( "" + data + "" );
+	}
+});
+*/
+</script>
+
+<div id="content">
+</div>
+
+</body>
+</html>
