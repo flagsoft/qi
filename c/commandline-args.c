@@ -2,6 +2,7 @@
 int main(int argc, char *argv[])
 {
 	printf("Number of arguments: %d\n", argc);
-	printf("argv[0]: %s", argv[0]);
+	printf("Program name %s\n", argv[0]);
+	printf("argv[1]: %s", argv[1]);
 	exit(0);
 }
