@@ -12,6 +12,7 @@ int main(int argc, char *argv[])
 	printf("First argument (first_arg): %s\n", first_arg);
 	
 	if (argc > 1) {
+		int count=0;
 		for (count = 1; count < argc; count++) {
 			printf("(argv_%d) = %s\n", count, argv[count]);
 		}
