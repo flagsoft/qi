@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
 	char *prog_name = argv[0];
-	int num_args = argc-1;
+	int num_args = argc - 1;
 	char *first_arg = argv[1];
 	
 	printf("Program name (prog_name): %s\n", prog_name);
