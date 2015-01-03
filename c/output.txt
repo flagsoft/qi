@@ -1,5 +1,0 @@
-Program name (prog_name): ./commandline-args
-Number of arguments (num_args): 2
-First argument (first_arg): John
-(argv_1) = John
-(argv_2) = Doe
