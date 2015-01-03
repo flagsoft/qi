@@ -2,7 +2,7 @@
 
 import sys
 
-print 'Number of arguments:', len(sys.argv), 'arguments.'
+print 'Number of arguments (qi__num_args):', len(sys.argv), 'arguments.'
 print 'Argument List:', str(sys.argv)
 
 
