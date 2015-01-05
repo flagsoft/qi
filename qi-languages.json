@@ -38,5 +38,13 @@
 		"status":"-",
 		"code":"-",
 		"done":false
+	},
+	{
+		"text":"JavaScript",
+		"key":"javascript",
+		"file":"index.html",
+		"status":"-",
+		"code":"-",
+		"done":false
 	}
 ]
