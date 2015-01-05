@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-	printf("Hello World!\n");	// (qi__hello)
+	printf("Hello World!\n");	/* (qi__hello) */
 	return 0;
 }
