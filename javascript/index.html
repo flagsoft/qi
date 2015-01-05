@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+	document.write("Hello, world!");
+</script>
+</body>
+</html>
