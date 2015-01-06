@@ -1,3 +1,5 @@
-{
-	"filelist":"MyClass.h,MyClass.cpp,main.cpp"
-}
+[
+	"MyClass.h",
+	"MyClass.cpp",
+	"main.cpp"
+]
