@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 	if (argc > 1) {
 		int count=0;
 		for (count = 1; count < argc; count++) {
-			cout << "(qi__argv_" << count << " = " << argv[count] << endl;
+			cout << "(qi__argv)" << count << " = " << argv[count] << endl;
 		}
 	} else {
 		cout << "The command had no other arguments (qi__args_none)." << endl;
