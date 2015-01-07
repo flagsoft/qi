@@ -3,7 +3,7 @@ using System;
 
 public class Commandline
 {
-	public static void Main(string[] args)
+	public static int Main(string[] args)
 	{
 
 		Console.WriteLine("Program name (qi__prog_name): {0}", args[0]);
@@ -20,5 +20,6 @@ public class Commandline
 			Console.WriteLine("The command had no other arguments (qi__args_none).");
 		}
 
+		return 0;
 	}
 }
