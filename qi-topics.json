@@ -1,14 +1,14 @@
 [
 	{
 		"title":"Commandline Arguments",
-		"text":"commandline-args"
+		"key":"commandline-args"
 	},
 	{
 		"title":"Hello World",
-		"text":"hello-world"
+		"key":"hello-world"
 	},
 	{
 		"title":"Class and Object",
-		"text":"class"
+		"key":"class"
 	}
 ]
