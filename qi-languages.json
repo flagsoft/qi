@@ -26,5 +26,17 @@
 	{
 		"text":"PHP",
 		"key":"php"
+	},
+	{
+		"text":"C#",
+		"key":"c-sharp"
+	},
+	{
+		"text":"Java",
+		"key":"java"
+	},
+	{
+		"text":"Qt (C++)",
+		"key":"qt"
 	}
 ]
