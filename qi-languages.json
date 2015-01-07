@@ -1,42 +1,42 @@
 [
 	{
-		"text":"Bash",
+		"title":"Bash",
 		"key":"bash"
 	},
 	{
-		"text":"C",
+		"title":"C",
 		"key":"c"
 	},
 	{
-		"text":"C++",
+		"title":"C++",
 		"key":"cpp"
 	},
 	{
-		"text":"Perl",
+		"title":"Perl",
 		"key":"perl"
 	},
 	{
-		"text":"Python",
+		"title":"Python",
 		"key":"python"
 	},
 	{
-		"text":"JavaScript",
+		"title":"JavaScript",
 		"key":"javascript"
 	},
 	{
-		"text":"PHP",
+		"title":"PHP",
 		"key":"php"
 	},
 	{
-		"text":"C#",
+		"title":"C#",
 		"key":"c-sharp"
 	},
 	{
-		"text":"Java",
+		"title":"Java",
 		"key":"java"
 	},
 	{
-		"text":"Qt (C++)",
+		"title":"Qt (C++)",
 		"key":"qt"
 	}
 ]
