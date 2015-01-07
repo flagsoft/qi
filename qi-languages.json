@@ -1,50 +1,30 @@
 [
 	{
 		"text":"Bash",
-		"key":"bash",
-		"file":"main.sh",
-		"status":"-",
-		"code":"-",
-		"done":false
+		"key":"bash"
 	},
 	{
 		"text":"C",
-		"key":"c",
-		"file":"main.c",
-		"status":"-",
-		"code":"-",
-		"done":false
+		"key":"c"
 	},
 	{
 		"text":"C++",
-		"key":"cpp",
-		"file":"main.cpp",
-		"status":"-",
-		"code":"-",
-		"done":false
+		"key":"cpp"
 	},
 	{
 		"text":"Perl",
-		"key":"perl",
-		"file":"main.pl",
-		"status":"-",
-		"code":"-",
-		"done":false
+		"key":"perl"
 	},
 	{
 		"text":"Python",
-		"key":"python",
-		"file":"main.py",
-		"status":"-",
-		"code":"-",
-		"done":false
+		"key":"python"
 	},
 	{
 		"text":"JavaScript",
-		"key":"javascript",
-		"file":"index.html",
-		"status":"-",
-		"code":"-",
-		"done":false
+		"key":"javascript"
+	},
+	{
+		"text":"PHP",
+		"key":"php"
 	}
 ]
