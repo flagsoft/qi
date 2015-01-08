@@ -2,17 +2,30 @@
 
 int main(int argc, char *argv[])
 {
+	
+	/* (qi__sequential) */
+	
 	/* (qi__variable_declaration) */
+	char prename[256];
+	int age;
+	float temperature;
+
+	strncpy(prename, "Bill", sizeof prename);
+	age = 23;
+	temperature = 36.3f;
+
+	printf("Prename     : %s\n", prename);
+	printf("Age         : %d\n", age);
+	printf("Temperature : %f\n", temperature);
+
+
+	/* (qi__conditional) */
+
 	int a;
 	int b;
 	
 	a=3;
 	b=12;
-
-	/* (qi__sequential) */
-
-
-	/* (qi__conditional) */
 
 	if (a == b) {	/* (qi__conditional_equal) */
 		printf("a equals b\n");
