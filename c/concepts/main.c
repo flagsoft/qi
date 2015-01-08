@@ -38,7 +38,7 @@ int main(int argc, char *argv[])
 	}
 
 	if (a != b) {	/* (qi__conditional_not_equal) */
-		printf("a is not equals to b\n");
+		printf("a is not equal to b\n");
 	} else {
 		printf("a is equal to b\n");
 	}
