@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 int main(int argc, char *argv[])
 {
@@ -26,6 +27,9 @@ int main(int argc, char *argv[])
 	
 	a=3;
 	b=12;
+
+	printf("a: %d\n", a);
+	printf("b: %d\n", b);
 
 	if (a == b) {	/* (qi__conditional_equal) */
 		printf("a equals b\n");
@@ -57,7 +61,7 @@ int main(int argc, char *argv[])
 	/* (qi__iterative) */
 
 	int counter=0;
-	for (counter = 0; counter < 9; counter++) {
+	for (counter = 0; counter < 10; counter++) {
 		printf("counter: %d\n", counter);
 	}
 
