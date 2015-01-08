@@ -1,5 +1,3 @@
-
-
 #include <stdio.h>
 
 int main(int argc, char *argv[])
@@ -43,8 +41,6 @@ int main(int argc, char *argv[])
 
 
 
-
-
 	/* (qi__iterative) */
 
 	int counter=0;
@@ -72,9 +68,5 @@ int main(int argc, char *argv[])
 
 	/* (/qi__boolean_operators) */
 
-
-
-
 	return(0);
-
 }
