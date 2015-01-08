@@ -6,9 +6,9 @@ int main(int argc, char *argv[])
 	/* (qi__sequential) */
 	
 	/* (qi__variable_declaration) */
-	char prename[256];
-	int age;
-	float temperature;
+	char prename[256];	// array of characters up to 256 characters of 8 bits
+	int age;                // integer
+	float temperature;      // float
 
 	strncpy(prename, "Bill", sizeof prename);
 	age = 23;
