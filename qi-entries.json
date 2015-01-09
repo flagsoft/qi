@@ -12,6 +12,10 @@
 		"key":"cpp"
 	},
 	{
+		"title":"C++ 11",
+		"key":"cpp11"
+	},
+	{
 		"title":"Perl",
 		"key":"perl"
 	},
